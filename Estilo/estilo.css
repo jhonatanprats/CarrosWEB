@@ -1,0 +1,135 @@
+h2 {
+
+    color: black;
+    
+    }
+    
+    
+    
+    nav {
+    
+    border-color: 5px solid black;
+    
+    border-top: 5px solid black;
+    
+    display: flex;
+    
+    padding: 2%;
+    
+    align-items: center;
+    
+    justify-content: space-around;
+    
+    
+    
+    
+    }
+    
+    
+    
+    #banner {
+    
+    width: 75%;
+    
+    height: 250px;
+    
+    }
+    
+    
+    
+    #inf{
+    
+    width: 50px;
+    
+    height: 50px;
+    
+    }
+    
+    
+    
+    .rr {
+    
+    width: 50px;
+    
+    height: 50px;
+    
+    border-radius: 50%;
+    
+    }
+    
+    
+    
+    aside {
+    
+    
+    }
+    
+    
+    
+    img {
+    
+    width: 50px;
+    
+    height: 50px;
+    
+    border-radius: 50%;
+    
+    }
+    
+    
+    
+    h1 {
+    
+    color: white    ;
+    
+    font-size: 45pt;
+    
+    }
+    
+    
+    
+    a{
+    
+    font-size: 22pt;
+    
+    text-decoration: none;
+    
+    color: white;
+    
+    }
+    
+    
+    
+    body {
+    
+    background-color: white;
+    
+    margin: 0;
+    
+    font-family: Arial;
+    
+    }
+    
+    
+    
+    header {
+    
+    background-color: black;
+    
+    text-align: center;
+    
+    }
+    
+    
+    
+    
+    
+    footer {
+    
+    background-color: grey;
+    
+    padding: 12px;
+    
+    text-align: center;
+    
+    }
